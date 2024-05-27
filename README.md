@@ -1,4 +1,7 @@
-# Price Scraper
+<img width="110" alt="220px-Selenium_Logo" src="https://github.com/berkecemoktem/Price-Comparison-With-Selenium/assets/75270752/5a7c10c2-23c3-41a2-8400-bf50dc54234c"> 
+
+# Price Scraper   
+
 ## Overview
 This project uses Selenium WebDriver to scrape prices of the "iPhone 15 Pro Max 512 GB Beyaz Titanyum" from three different websites: Trendyol, Hepsiburada, and Apple. The scraped prices are then written to an Excel file for easy comparison.
 
